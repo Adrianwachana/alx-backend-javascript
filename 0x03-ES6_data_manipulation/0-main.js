@@ -1,4 +1,4 @@
-const getListStudents = require("./0-get_list_students.js");
+import getListStudents = require("./0-get_list_students.js");
 
 console.log(getListStudents());
 
